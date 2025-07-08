@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Abdulkamil Kemal. I am an aspiring software engineer passionate about building innovative tech solutions that can solve real-world problems, especially in my local community. I enjoy learning about Linux systems, version control, and backend development.
+
+I joined the ALX Pathway program to improve my skills and gain hands-on experience in building scalable applications. My goal is to become a full-stack developer and contribute to open-source projects while helping others learn.
