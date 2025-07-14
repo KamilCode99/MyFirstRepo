@@ -1,1 +1,1 @@
-I’ve learned how to generate SSH keys and push code from Termux using GitHub SSH.
+What I have learned from this course: I’ve learned how to generate SSH keys and push code from Termux using GitHub SSH.
